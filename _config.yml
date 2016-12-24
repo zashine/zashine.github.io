@@ -1,0 +1,20 @@
+# Site settings
+title: zashine's blog
+email: zx_1124@foxmail.com
+baseurl: "" # the subpath of your site, e.g. /blog
+#url: "http://zashine.com" # the base hostname & protocol for your site
+
+# Sidebar settings
+description: well begun is half done
+
+# Social icons
+facebook: username
+linkedin: username
+github: zashine
+deviantart: username
+codepen: username
+
+footer: © Taken theme
+
+# Build settings
+markdown: kramdown
