@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "The first"
-date:   2016-12-24 22:02:01 -0500
+title:  "Example Content"
+date:   2017/2/26 15:44:05 
 comments: true
 categories: jekyll
 ---
@@ -32,7 +32,7 @@ Cras fermentum nibh quis nisl imperdiet ornare. Sed nisi nunc, dictum sit amet g
 2. Cum sociis natoque penatibus.
 3. Maecenas sed diam eget risus.
 
-![Large example image](http://placehold.it/800x400 "Large example image")
+![Large example image]({{site.url}}/assets/example_ear.jpg "Large example image")
 
 Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
