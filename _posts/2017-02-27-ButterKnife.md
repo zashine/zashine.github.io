@@ -12,7 +12,7 @@ Github地址：[https://github.com/JakeWharton/butterknife](https://github.com/J
 
 最新版本ButterKnife8.5.1（截止目前2017/2/27 21:47:25）
 
-![butterknife]({{site.url}}/assets/butterknife/butterknife.jpg)
+![butterknife]({{site.url}}/assets/butterknife/butterknife.jpg "butterknife")
 
 通过注解的方式，将Android View与成员变量和方法绑定起来，形成一种模版样式的代码。
 
